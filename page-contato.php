@@ -1,3 +1,6 @@
+<?php 
+	//Template Name: Contato
+?>
 <?php get_header(); ?>
 
 		<section class="container contato">
